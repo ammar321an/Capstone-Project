@@ -29,12 +29,12 @@ The main microcontroller used is the ESP32, with an Arduino Uno R4 for activatin
 | **ESP32**               | Main microcontroller for controlling the system.               |
 | **Arduino Uno R4**      | Activates the ultrasonic sensor.                               |
 | **DFPlayer Mini**       | Plays sound files for the deterrent sound effect.              |
-| **4-inch Speaker**      | Outputs the deterrent sound. 🔊                                |
+| **4-inch Speaker**      | Outputs the deterrent sound.                                   |
 | **Ultrasonic Sensor**   | Detects the presence of objects within a specific range.       |
-| **LED**                 | Provides visual indicators. 💡                                 |
+| **LED**                 | Provides visual indicators.                                    |
 | **Motor Driver**        | Controls the high torque motor.                                |
 | **High Torque Motor**   | Drives the physical deterrent mechanism.                       |
-| **12V Battery**         | Powers the entire system. 🔋                                   |
+| **12V Battery**         | Powers the entire system.                                      |
 | **Voltage Regulator**   | Regulates voltage to safe levels for components.               |
 | **Wiring and Resistors**| Connects and ensures proper operation of electrical components.|
 | **Caster Wheel**        | Supports and stabilizes the robot.                             |
