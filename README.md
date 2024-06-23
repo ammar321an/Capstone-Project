@@ -22,6 +22,20 @@ The main microcontroller used is the ESP32, with an Arduino Uno R4 for activatin
 
 ---
 
+## 🖼️ Project Images
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="Image/Login.png" alt="Login Page" style="max-height: 100px; width: auto;">
+    <img src="Image/Register.png" alt="Register Page" style="max-height: 100px; width: auto;">
+    <img src="Image/ip.png" alt="IP Calibration Page" style="max-height: 100px; width: auto;">
+    <img src="Image/control.png" alt="Main Control Page" style="max-height: 100px; width: auto;">
+    <img src="Image/FrontView.png" alt="Front View" width="45%">
+    <img src="Image/Testing.png" alt="System Testing" width="45%">
+    <img src="Image/Database.png" alt="Database" width="45%">
+</div>
+
+---
+
 ## Key Components 🛠️
 
 | Component               | Description                                                    |
@@ -53,6 +67,13 @@ The main microcontroller used is the ESP32, with an Arduino Uno R4 for activatin
 ## Contact 📞
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-ammar-yaseer-azizan-48b28a235/)
+
+### 🎥 Simulation Video
+<div style="display: flex; align-items: center;">
+  <a href="https://linktr.ee/ammarysr" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Linktree-Visit-green" alt="Linktree">
+  </a>
+</div>
 
 ---
 
